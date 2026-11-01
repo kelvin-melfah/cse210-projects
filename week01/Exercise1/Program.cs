@@ -12,7 +12,7 @@ public static class Program
         //    in place, so reusing one list would make each test start from the
         //    previous test's result and the output would be confusing.
 
-        // ----- Part 1: MultiplesOf -----
+        // ----- Part 1: MultiplesOf --
 
         // Expected: 3, 6, 9, 12, 15 (the example straight from the instructions)
         double[] multiples1 = Arrays.MultiplesOf(3, 5);
